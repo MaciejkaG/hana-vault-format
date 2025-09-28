@@ -1,9 +1,9 @@
 [package]
-name = "hana-locker"
-description = "A Rust library used by the Opscape Hana SSH client for storing user data securely."
+name = "hana-vault"
+description = "A library used by the Opscape Hana SSH client for storing user data securely."
 license = "MIT"
 homepage = "https://docs.opscape.app/"
-repository = "https://github.com/opscape-hq/hana-locker"
+repository = "https://github.com/opscape-hq/hana-vault"
 readme = "README.md"
 version = "0.1.0"
 edition = "2024"
