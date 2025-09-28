@@ -174,7 +174,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "hana-vault-format"
+name = "hana-locker"
 version = "0.1.0"
 dependencies = [
  "aes-gcm",

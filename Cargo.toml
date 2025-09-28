@@ -1,5 +1,10 @@
 [package]
-name = "hana-vault-format"
+name = "hana-locker"
+description = "A Rust library used by the Opscape Hana SSH client for storing user data securely."
+license = "MIT"
+homepage = "https://docs.opscape.app/"
+repository = "https://github.com/opscape-hq/hana-locker"
+readme = "README.md"
 version = "0.1.0"
 edition = "2024"
 
