@@ -3,7 +3,7 @@
 //! This example demonstrates how to create a vault, add data to it,
 //! save it to a file, and load it back.
 
-use hana_vault_format::{HevVault, ChunkType, VaultError};
+use hana_vault::{HevVault, ChunkType, VaultError};
 use std::path::Path;
 
 fn main() -> Result<(), VaultError> {
